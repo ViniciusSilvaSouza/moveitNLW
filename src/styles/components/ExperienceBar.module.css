@@ -19,11 +19,11 @@
 .experienceBar>div>div {
     height: 4px;
     border-radius: 4px;
-    background: var(--green);
+    background: var(--green)
 }
 
 span.currentExperience {
     position: absolute;
     top: 12px;
-    transform: translate(-50%);
+    transform: translateX(-50%);
 }
